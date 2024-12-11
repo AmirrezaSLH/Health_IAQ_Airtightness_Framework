@@ -1,7 +1,7 @@
 Disclaimer
 
 This version of the code is a beta release and is currently being updated.
-For further questions, please feel free to contact me.
+For further questions or if you encountered problems running the code please feel free to contact me.
 
 For academic use, please ensure proper citation.
 
